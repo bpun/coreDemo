@@ -1,0 +1,11 @@
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\bin\Debug\netcoreapp2.0\Infastructure.deps.json
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\bin\Debug\netcoreapp2.0\Infastructure.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\bin\Debug\netcoreapp2.0\Infastructure.pdb
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\bin\Debug\netcoreapp2.0\System.Data.SqlClient.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\bin\Debug\netcoreapp2.0\System.Data.SqlClient.xml
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\obj\Debug\netcoreapp2.0\Infastructure.csprojResolveAssemblyReference.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\obj\Debug\netcoreapp2.0\Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\obj\Debug\netcoreapp2.0\Infastructure.AssemblyInfoInputs.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\obj\Debug\netcoreapp2.0\Infastructure.AssemblyInfo.cs
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\obj\Debug\netcoreapp2.0\Infastructure.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Infastructure\obj\Debug\netcoreapp2.0\Infastructure.pdb

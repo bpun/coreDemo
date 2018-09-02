@@ -1,0 +1,15 @@
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\COREDemo.deps.json
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\COREDemo.runtimeconfig.json
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\COREDemo.runtimeconfig.dev.json
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\COREDemo.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\COREDemo.pdb
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\Infastructure.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\bin\Debug\netcoreapp2.0\Infastructure.pdb
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\obj\Debug\netcoreapp2.0\COREDemo.csprojResolveAssemblyReference.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\obj\Debug\netcoreapp2.0\COREDemo.csproj.CoreCompileInputs.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\obj\Debug\netcoreapp2.0\COREDemo.AssemblyInfoInputs.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\obj\Debug\netcoreapp2.0\COREDemo.AssemblyInfo.cs
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\obj\Debug\netcoreapp2.0\COREDemo.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\COREDemo\obj\Debug\netcoreapp2.0\COREDemo.pdb

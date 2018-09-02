@@ -1,0 +1,11 @@
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\bin\Debug\netcoreapp2.0\Infastructure.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\bin\Debug\netcoreapp2.0\Infastructure.pdb
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\obj\Debug\netcoreapp2.0\Repository.csprojResolveAssemblyReference.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+C:\Users\bharat.pun\Desktop\Temp\COREDemo\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
